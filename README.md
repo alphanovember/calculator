@@ -1,7 +1,9 @@
 # calculator
 Hesap makinası çalışması.
 
+*-*-*-*-*
+versiyon 1 -beta (Versiyon Durum : ÇALIŞIYOR)
 
-versiyon 1 (beta)
+-HASAN ALPEREN YILMAZ   
 
--HASAN ALPEREN YILMAZ   ÇALIŞIYOR
+*-*-*-*-*
