@@ -1,0 +1,9 @@
+c:\users\alpi.alpi\documents\visual studio 2015\Projects\calculatorv1\calculatorv1\bin\Debug\calculatorv1.exe.config
+c:\users\alpi.alpi\documents\visual studio 2015\Projects\calculatorv1\calculatorv1\bin\Debug\calculatorv1.exe
+c:\users\alpi.alpi\documents\visual studio 2015\Projects\calculatorv1\calculatorv1\bin\Debug\calculatorv1.pdb
+c:\users\alpi.alpi\documents\visual studio 2015\Projects\calculatorv1\calculatorv1\obj\Debug\calculatorv1.csprojResolveAssemblyReference.cache
+c:\users\alpi.alpi\documents\visual studio 2015\Projects\calculatorv1\calculatorv1\obj\Debug\calculatorv1.Form1.resources
+c:\users\alpi.alpi\documents\visual studio 2015\Projects\calculatorv1\calculatorv1\obj\Debug\calculatorv1.Properties.Resources.resources
+c:\users\alpi.alpi\documents\visual studio 2015\Projects\calculatorv1\calculatorv1\obj\Debug\calculatorv1.csproj.GenerateResource.Cache
+c:\users\alpi.alpi\documents\visual studio 2015\Projects\calculatorv1\calculatorv1\obj\Debug\calculatorv1.exe
+c:\users\alpi.alpi\documents\visual studio 2015\Projects\calculatorv1\calculatorv1\obj\Debug\calculatorv1.pdb
