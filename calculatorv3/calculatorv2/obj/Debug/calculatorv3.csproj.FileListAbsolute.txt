@@ -1,0 +1,9 @@
+C:\Users\Alpi.ALPI\Desktop\calculatorv2\calculatorv2\bin\Debug\calculatorv2.exe.config
+C:\Users\Alpi.ALPI\Desktop\calculatorv2\calculatorv2\obj\Debug\calculatorv2.exe
+C:\Users\Alpi.ALPI\Desktop\calculatorv2\calculatorv2\obj\Debug\calculatorv2.pdb
+C:\Users\Alpi.ALPI\Desktop\calculatorv2\calculatorv2\bin\Debug\calculatorv2.exe
+C:\Users\Alpi.ALPI\Desktop\calculatorv2\calculatorv2\bin\Debug\calculatorv2.pdb
+C:\Users\Alpi.ALPI\Desktop\calculatorv2\calculatorv2\obj\Debug\calculatorv3.csprojResolveAssemblyReference.cache
+C:\Users\Alpi.ALPI\Desktop\calculatorv2\calculatorv2\obj\Debug\calculatorv2.Form1.resources
+C:\Users\Alpi.ALPI\Desktop\calculatorv2\calculatorv2\obj\Debug\calculatorv2.Properties.Resources.resources
+C:\Users\Alpi.ALPI\Desktop\calculatorv2\calculatorv2\obj\Debug\calculatorv3.csproj.GenerateResource.Cache
