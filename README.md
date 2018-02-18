@@ -2,8 +2,8 @@
 Hesap makinası çalışması.
 
 GRUP ÜYELERİ
-1-HASAN ALPEREN YILMAZ
-2-HASAN ÜNLÜ
+1-HASAN ALPEREN YILMAZ<br/>
+2-HASAN ÜNLÜ<br/>
 3-BÜLENT SERİM
 
-Hesap makinası projemiz calculatorv2 oluşturuldu. Hasan Ünlü projeye hesaplamaların yapılacağı calculations class'ını ekledi.
+
